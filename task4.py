@@ -35,6 +35,5 @@ def main():
     print('7) Name this creation: "Dog"')
 
 
-
 if __name__ == "__main__":
-
+    main()
